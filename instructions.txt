@@ -1,1 +1,4 @@
- 
+Git Commands for step 5:
+1 - git add . //For adds a files modified to the Git staging area
+2 - git commit -m "Commit for step 5" //For confirm files in the git staging area
+3 - git push //For upload commit to repository 
